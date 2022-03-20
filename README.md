@@ -1,4 +1,3 @@
-# vocaloid
 <!DOCTIPE html>
 <html lang="ja">
 <head>
@@ -20,7 +19,11 @@
         <p><li><a href="https://www.youtube.com/watch?v=ZNLtEqBbUg4">┗|∵|┓ロメオ／HoneyWorks feat.初音ミク・GUMI</a></p>
         <p><li><a href="https://www.youtube.com/watch?v=66dSTFYattw">[Official] 世界の終わりに逢いましょう / cosMo＠暴走P</a></p>
 <p><li><a href="https://www.youtube.com/watch?v=sHnvEsNU1X0">ピノキオピー - 腐れ外道とチョコレゐト feat. 初音ミク / Kusare-gedou and Chocolate</a></p>
+        <p><li><a href="https://www.youtube.com/watch?v=agcoHM2CJ3s">DECO*27 - パラサイト feat. 初音ミク</a></p>
+        <p><li><a href="https://www.youtube.com/watch?v=E_PfhNftyh4">DECO*27 - ジレンマ feat. 初音ミク
 
+
+        
     </ul>
     <h2>その他</h2>
     <ul>
